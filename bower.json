@@ -1,0 +1,39 @@
+{
+  "name": "tnt.tree",
+  "main": "build/tnt.tree.js",
+  "version": "0.0.26",
+  "homepage": "https://github.com/emepyc/tnt.tree",
+  "authors": [
+    "Miguel Pignatelli"
+  ],
+  "description": "TnT tree display",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "keywords": [
+    "tnt",
+    "biojs",
+    "javascript",
+    "tree",
+    "phylogenetic",
+    "newick"
+  ],
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "snippets",
+    "browser.js",
+    "examples",
+    "gulpfile.js"
+    "index.js"
+    "index.scss",
+    "src"
+  ],
+  "dependencies": {
+    "d3": "~3.5.6"
+  }
+}
