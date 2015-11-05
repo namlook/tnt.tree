@@ -28,8 +28,8 @@
     "snippets",
     "browser.js",
     "examples",
-    "gulpfile.js"
-    "index.js"
+    "gulpfile.js",
+    "index.js",
     "index.scss",
     "src"
   ],
